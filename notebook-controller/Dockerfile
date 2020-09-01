@@ -1,2 +1,2 @@
-FROM gcr.io/kubeflow-images-public/notebook-controller:v1.0.0-gcd65ce25
+FROM gcr.io/kubeflow-images-public/notebook-controller:vmaster-gf39279c0
 MAINTAINER zhangchunsheng<zhangchunsheng423@gmail.com>
