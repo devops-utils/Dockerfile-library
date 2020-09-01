@@ -1,2 +1,2 @@
-FROM gcr.io/kubeflow-images-public/admission-webhook:v1.0.0-gaf96e4e3
+FROM gcr.io/kubeflow-images-public/admission-webhook:vmaster-gaf96e4e3
 MAINTAINER zhangchunsheng<zhangchunsheng423@gmail.com>
