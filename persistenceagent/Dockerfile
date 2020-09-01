@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/persistenceagent:0.2.5
+FROM gcr.io/ml-pipeline/persistenceagent:1.0.0
 MAINTAINER zhangchunsheng<zhangchunsheng423@gmail.com>
